@@ -146,6 +146,7 @@
 
 
 
+
 #include<stdio.h>
 void rotate(int ang);
 int a[100][100];
